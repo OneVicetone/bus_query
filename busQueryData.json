@@ -1,0 +1,1503 @@
+[
+    {
+        "routes": "B804",
+        "busSite": "西乡后瑞总站一西乡后瑞总站",
+        "status": "3"
+    },
+    {
+        "routes": "B826",
+        "busSite": "西乡恒生医院一壹方中心",
+        "status": "3"
+    },
+    {
+        "routes": "B827",
+        "busSite": "西乡恒生医院一宝安教育城",
+        "status": "3"
+    },
+    {
+        "routes": "B828",
+        "busSite": "新安六路公交总站一新安六路公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B829",
+        "busSite": "新安72区安利达场站一新安72区安利达场站",
+        "status": "3"
+    },
+    {
+        "routes": "B847",
+        "busSite": "西乡恒生医院一西乡恒生医院",
+        "status": "3"
+    },
+    {
+        "routes": "B887",
+        "busSite": "固成村总站一西乡恒生医院",
+        "status": "3"
+    },
+    {
+        "routes": "B888",
+        "busSite": "领翔华府一西乡公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B904",
+        "busSite": "新安文体中心一宝城三区总站",
+        "status": "3"
+    },
+    {
+        "routes": "B976",
+        "busSite": "固戌地铁公交接驳站一固成地铁公交接驳站",
+        "status": "3"
+    },
+    {
+        "routes": "B776",
+        "busSite": "益华电子城一和一社区微巴场站",
+        "status": "3"
+    },
+    {
+        "routes": "B978",
+        "busSite": "共和综合场站一松岗地铁站",
+        "status": "3"
+    },
+    {
+        "routes": "B980",
+        "busSite": "松岗燕罗公交总站一松岗地铁站",
+        "status": "3"
+    },
+    {
+        "routes": "B900",
+        "busSite": "江边公交总站一江边公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B892",
+        "busSite": "福永桥头综合场站一福永桥头综合场站",
+        "status": "3"
+    },
+    {
+        "routes": "B898",
+        "busSite": "怀德商贸西(微巴)一白石厦公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B985",
+        "busSite": "福永桥头综合场站一凤凰小学园",
+        "status": "3"
+    },
+    {
+        "routes": "B937",
+        "busSite": "洪田村微巴场站一沙井地铁站",
+        "status": "3"
+    },
+    {
+        "routes": "B929",
+        "busSite": "星航华府总站一新和综合场站",
+        "status": "3"
+    },
+    {
+        "routes": "B977",
+        "busSite": "大田洋公交总站一后亭地铁站",
+        "status": "3"
+    },
+    {
+        "routes": "B959",
+        "busSite": "田家总站一田家总站",
+        "status": "3"
+    },
+    {
+        "routes": "B960",
+        "busSite": "华强创意园首末站一天汇城首末站",
+        "status": "3"
+    },
+    {
+        "routes": "B963",
+        "busSite": "塘家总站一石介头市场3"
+    },
+    {
+        "routes": "B879",
+        "busSite": "上塘地铁公交接驳站一大浪羊台山公园总站",
+        "status": "3"
+    },
+    {
+        "routes": "B730",
+        "busSite": "龙华文化广场临时公交场站一深圳北站交通枢纽公交场站",
+        "status": "3"
+    },
+    {
+        "routes": "B920",
+        "busSite": "大浪三联总站一壹成中心第九区公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "高峰专线80号",
+        "busSite": "锦观园公交总站一壹成中心花园公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B864",
+        "busSite": "平峦山公交总站一宝安客运中心",
+        "status": "0"
+    },
+    {
+        "routes": "B913",
+        "busSite": "黄麻布凤凰山一黄麻布凤凰山",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线131号",
+        "busSite": "西乡公交总站一中兴通讯宿舍",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线158号",
+        "busSite": "坪洲地铁站一科技学态园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "夜班1号",
+        "busSite": "新安67区安顺达总站一公明元山东路总站",
+        "status": "0"
+    },
+    {
+        "routes": "西湾公园假日专线1号",
+        "busSite": "西乡后瑞总站一深南北环立交",
+        "status": "0"
+    },
+    {
+        "routes": "B689",
+        "busSite": "紫薇阁总站一福田口岸公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B685",
+        "busSite": "福田口岸公交总站一福田口岸公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B618",
+        "busSite": "福田口岸公交总站一福田口岸公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B621",
+        "busSite": "罗湖区中医院(临时始发站)一罗湖区中医院(临时始发站)",
+        "status": "3"
+    },
+    {
+        "routes": "B683",
+        "busSite": "方大城公交总站一高新西公交总站",
+        "status": "3"
+    },
+    {
+        "routes": "B614",
+        "busSite": "银湖汽车站总站一银湖汽车站总站",
+        "status": "3"
+    },
+    {
+        "routes": "B968",
+        "busSite": "侨城东总站一侨城东总站",
+        "status": "3"
+    },
+    {
+        "routes": "高峰专线156号",
+        "busSite": "鲤鱼门地铁站一前海湾花园",
+        "status": "3"
+    },
+    {
+        "routes": "高峰专线3号",
+        "busSite": "民乐地铁站一绒花路口东国",
+        "status": "3"
+    },
+    {
+        "routes": "B626",
+        "busSite": "盐田综合车场一盐田海鲜街",
+        "status": "0"
+    },
+    {
+        "routes": "B619",
+        "busSite": "沙头角公交总站一沙头角公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B817",
+        "busSite": "桃花园总站一深圳湾口岸公交首末站",
+        "status": "0"
+    },
+    {
+        "routes": "B961",
+        "busSite": "海涛花园一大梅沙公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B878",
+        "busSite": "华南城交易中心一观澜湖公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B924",
+        "busSite": "海涛花园一盐田东公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B821",
+        "busSite": "上梅林公交总站一上梅林公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B982",
+        "busSite": "半山溪谷一香径南街",
+        "status": "0"
+    },
+    {
+        "routes": "B902",
+        "busSite": "盐田精茂城一沙头角社康",
+        "status": "0"
+    },
+    {
+        "routes": "B709",
+        "busSite": "深业花园公交总站一深业花园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B818",
+        "busSite": "深大总医院总站一深大总医院总站",
+        "status": "0"
+    },
+    {
+        "routes": "B945",
+        "busSite": "赤湾学校总站一赤湾学校总站",
+        "status": "0"
+    },
+    {
+        "routes": "B624",
+        "busSite": "沙湾公交场站一沙湾公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "B925",
+        "busSite": "半山溪谷一盐田东公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B613",
+        "busSite": "购物公园总站一颂德花园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B795",
+        "busSite": "世界之窗总站一世界之窗总站",
+        "status": "0"
+    },
+    {
+        "routes": "B909",
+        "busSite": "宁水花园总站一宁水花园总站",
+        "status": "0"
+    },
+    {
+        "routes": "B855",
+        "busSite": "深职院北校区总站一深职院北校区总站",
+        "status": "0"
+    },
+    {
+        "routes": "B991",
+        "busSite": "鲤鱼门地铁站一鲤鱼门地铁站",
+        "status": "0"
+    },
+    {
+        "routes": "B698",
+        "busSite": "东昌总站一东昌总站",
+        "status": "0"
+    },
+    {
+        "routes": "B728",
+        "busSite": "深大西门一深大西门",
+        "status": "0"
+    },
+    {
+        "routes": "B927",
+        "busSite": "盐田东公交总站一盐田东公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B842",
+        "busSite": "渔民村总站一渔民村总站",
+        "status": "0"
+    },
+    {
+        "routes": "B957",
+        "busSite": "石厦南总站一石厦南总站",
+        "status": "0"
+    },
+    {
+        "routes": "B812",
+        "busSite": "福田南总站一福田南总站",
+        "status": "0"
+    },
+    {
+        "routes": "B877",
+        "busSite": "新田车队新田总站一华盛峰荟名庭公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B608",
+        "busSite": "松坪山总站一松坪山总站",
+        "status": "0"
+    },
+    {
+        "routes": "B707",
+        "busSite": "方大城公交总站一方大城公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B964",
+        "busSite": "深圳湾体育中心总站深圳湾体育中心总站",
+        "status": "0"
+    },
+    {
+        "routes": "B990",
+        "busSite": "前海湾地铁站总站一前海湾地铁站总站",
+        "status": "0"
+    },
+    {
+        "routes": "B962",
+        "busSite": "长富金茂大厦一长富金茂大厦",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线18号",
+        "busSite": "布吉慢城一福田交通枢纽公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线150号",
+        "busSite": "中海锦城花园公交总站一阳光科创公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线138号",
+        "busSite": "强荣东总站-深圳湾口岸公交首末站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线128号",
+        "busSite": "深大丽湖校区一深大丽湖校区",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线166号",
+        "busSite": "石岩羊台苑一安托山场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线119号",
+        "busSite": "民治民塘路总站一群星广场始发站1",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线49号",
+        "busSite": "冠铭花园总站一上海宾馆西2",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线165号",
+        "busSite": "石岩综合场站一科技生态园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线22号",
+        "busSite": "万科第五园总站一科技园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线14号",
+        "busSite": "龙华清华路总站一东方雅苑",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线26号",
+        "busSite": "华丽商务中心公交总站一桃源村",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线92号",
+        "busSite": "新田总站一科苑南公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线58号",
+        "busSite": "大梅沙闻檀道场站-福田高铁站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线71号",
+        "busSite": "龙华清湖小学场站一皇庭广场总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线9号",
+        "busSite": "大冲1一宝民社区",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线120号",
+        "busSite": "深圳北站东广场-深圳湾口岸公交首末站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线73号",
+        "busSite": "景芬路口一火车站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线5号",
+        "busSite": "香梅北总站一大梅沙闻檀道场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线19号",
+        "busSite": "布吉慢城一下沙总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线182号",
+        "busSite": "盐田精茂城一盐田精茂城",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线123号",
+        "busSite": "万科第五园总站一听泉居总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线21号万科五园公交总站-福田保税区总站(新)",
+        "busSite": "0"
+    },
+    {
+        "routes": "高峰专线32号",
+        "busSite": "南岭花园场站一黄贝岭",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线69号",
+        "busSite": "桃源村总站一深大北门2",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线11号",
+        "busSite": "草埔地铁站总站一世界之窗总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线122号",
+        "busSite": "罗田路公交总站一松坪山总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线17号",
+        "busSite": "布吉慢城一购物公园地铁站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线29号",
+        "busSite": "六约新村总站-福田高铁站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线62号",
+        "busSite": "南头总站-福田高铁站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线72号",
+        "busSite": "西乡大铲湾总站-中兴通讯2",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线98号",
+        "busSite": "金洲花园一淘金山小区",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线183号",
+        "busSite": "安芳小学ー安芳小学",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士30号",
+        "busSite": "光明圳美总站一前海航海路总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士25号",
+        "busSite": "光明圳美总站一福田南总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士4号",
+        "busSite": "樟坑三区一群星广场始发站园",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士31号",
+        "busSite": "长凤路总站一民田路站公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士21号",
+        "busSite": "固成公交接驳站一高新西公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士97号",
+        "busSite": "平湖任屋村总站一新闻大厦",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士70号",
+        "busSite": "水围村公交首末站一福田交通枢纽公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士12号",
+        "busSite": "大梅沙闻植道场站一香梅北总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士18号",
+        "busSite": "龙胜地铁站一招商银行大厦国",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士19号",
+        "busSite": "白石龙总站一福田南总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士22号",
+        "busSite": "西乡大铲湾总站一华润城公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士29号",
+        "busSite": "凤凰总站一银湖汽车站总站",
+        "status": "0"
+    },
+    {
+        "routes": "联通区间线",
+        "busSite": "世界之窗图一联通沙河站",
+        "status": "0"
+    },
+    {
+        "routes": "26路夜班车",
+        "busSite": "皇岗口岸一皇岗口岸",
+        "status": "0"
+    },
+    {
+        "routes": "N10",
+        "busSite": "香蜜湖总站一草埔吓屋村",
+        "status": "0"
+    },
+    {
+        "routes": "N17",
+        "busSite": "草埔地铁站总站一上海宾馆",
+        "status": "0"
+    },
+    {
+        "routes": "N21",
+        "busSite": "大梅沙闻檀道场站一大梅沙闻植道场站",
+        "status": "0"
+    },
+    {
+        "routes": "N8",
+        "busSite": "桃源村总站一海上世界公交接驳站",
+        "status": "0"
+    },
+    {
+        "routes": "N12",
+        "busSite": "福田农批市场总站(下梅林总站)上海宾",
+        "status": "0"
+    },
+    {
+        "routes": "N16",
+        "busSite": "清水河一火车站",
+        "status": "0"
+    },
+    {
+        "routes": "N24",
+        "busSite": "安托山场站一蛇口广场",
+        "status": "0"
+    },
+    {
+        "routes": "N6",
+        "busSite": "草埔地铁站总站一世界之窗总站",
+        "status": "0"
+    },
+    {
+        "routes": "N9",
+        "busSite": "民乐地铁站2一福田保税区总站(新)",
+        "status": "0"
+    },
+    {
+        "routes": "N3",
+        "busSite": "草埔吓屋村一福田高铁站",
+        "status": "0"
+    },
+    {
+        "routes": "N14",
+        "busSite": "长岭东公交场站一火车站",
+        "status": "0"
+    },
+    {
+        "routes": "N18",
+        "busSite": "深业东岭一火车站",
+        "status": "0"
+    },
+    {
+        "routes": "N2",
+        "busSite": "金洲花园总站一火车站",
+        "status": "0"
+    },
+    {
+        "routes": "N4",
+        "busSite": "火车站一海运大厦",
+        "status": "0"
+    },
+    {
+        "routes": "N7",
+        "busSite": "布心总站一火车站",
+        "status": "0"
+    },
+    {
+        "routes": "NE29",
+        "busSite": "机场地面交通中心西平台一壶成中心第九区公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "NE30",
+        "busSite": "机场地面交通中心西平台一海上世界公交接驳站",
+        "status": "0"
+    },
+    {
+        "routes": "N25",
+        "busSite": "清水河一皇岗口岸",
+        "status": "0"
+    },
+    {
+        "routes": "N27",
+        "busSite": "深圳湾口岸公交首末站一大铲湾公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "滨海休闲观光假日专线",
+        "busSite": "福田交通枢纽一福田交通枢纽",
+        "status": "0"
+    },
+    {
+        "routes": "梧桐山假日专线2号",
+        "busSite": "深圳东站东广场一梧桐山总站",
+        "status": "0"
+    },
+    {
+        "routes": "小梅沙假日专线2号",
+        "busSite": "北斗小学一小梅沙总站",
+        "status": "0"
+    },
+    {
+        "routes": "大梅沙假日专线1号",
+        "busSite": "黄贝岭地铁站3一大梅沙滨海场站",
+        "status": "0"
+    },
+    {
+        "routes": "大梅沙假日专线2号",
+        "busSite": "大梅沙闻名道场站一田贝总站",
+        "status": "0"
+    },
+    {
+        "routes": "大梅沙假日3号线",
+        "busSite": "大运地铁公交接驳站一大梅沙闻檀道场站",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日接驳专线2号",
+        "busSite": "新大社区一新大社区",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日接驳专线4号",
+        "busSite": "新大社区一新大社区",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日接驳专线6号",
+        "busSite": "新大社区一新大社区",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日专线2号",
+        "busSite": "福宁总站一新大社区",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日专线4号",
+        "busSite": "福田高铁站一新大社区",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日专线6号",
+        "busSite": "民治民塘路总站一新大社区",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士60号",
+        "busSite": "西乡桃源居总站-新闻大厦",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线43号",
+        "busSite": "公坑廊新能源公交场站一科技生态园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "398",
+        "busSite": "仙田总站一购物公园总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士40号",
+        "busSite": "宝利工业区总站一竹子林2",
+        "status": "0"
+    },
+    {
+        "routes": "M447区间2",
+        "busSite": "坂田医院一福田交通枢纽",
+        "status": "0"
+    },
+    {
+        "routes": "B725区间",
+        "busSite": "茗萃园一茗萃园",
+        "status": "0"
+    },
+    {
+        "routes": "377",
+        "busSite": "福田交通枢纽公交一布吉百鸽笼总站",
+        "status": "0"
+    },
+    {
+        "routes": "822",
+        "busSite": "布吉青青家园总站一布吉百鸽笼总站",
+        "status": "0"
+    },
+    {
+        "routes": "M281",
+        "busSite": "梅林关西公交首末站一布吉百鸽笼总站",
+        "status": "0"
+    },
+    {
+        "routes": "M428",
+        "busSite": "翠枫豪园一布吉百鸽笼总站",
+        "status": "0"
+    },
+    {
+        "routes": "M432",
+        "busSite": "龙岗长途客运站一牧云溪谷总站",
+        "status": "0"
+    },
+    {
+        "routes": "B671",
+        "busSite": "鹏联佳科技园-坪地同兴厂",
+        "status": "0"
+    },
+    {
+        "routes": "B673",
+        "busSite": "高桥村一坪地牛眼岭总站",
+        "status": "0"
+    },
+    {
+        "routes": "B738",
+        "busSite": "牧云溪谷总站一牧云溪谷总站",
+        "status": "0"
+    },
+    {
+        "routes": "B739",
+        "busSite": "坪地牛眼岭总站一坪地富乐村",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线185号",
+        "busSite": "大运新城总站-大运新城总站",
+        "status": "0"
+    },
+    {
+        "routes": "B629",
+        "busSite": "仙田南总站-振业天峦",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线160号",
+        "busSite": "富坪总站-富坪总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线161号",
+        "busSite": "富坪总站-富坪总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线152号",
+        "busSite": "洞背村一坝光新村",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线136号",
+        "busSite": "宝龙清风总站一宝龙清风总站",
+        "status": "0"
+    },
+    {
+        "routes": "M374",
+        "busSite": "宝龙清风总站一宝龙清风总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线99号",
+        "busSite": "南澳新大总站-大鹏新区管委会1",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士13号",
+        "busSite": "大鹏汽车站一黄贝岭地铁站1",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士26号",
+        "busSite": "福田交通枢纽公交-大鹏汽车站",
+        "status": "0"
+    },
+    {
+        "routes": "B752",
+        "busSite": "大鹏汽车站一云海山庄",
+        "status": "0"
+    },
+    {
+        "routes": "B753",
+        "busSite": "大鹏汽车站一四和村",
+        "status": "0"
+    },
+    {
+        "routes": "M321",
+        "busSite": "大鹏汽车站一南澳洋畴湾",
+        "status": "0"
+    },
+    {
+        "routes": "M423",
+        "busSite": "大鹏汽车站-国家地质公园",
+        "status": "0"
+    },
+    {
+        "routes": "B956",
+        "busSite": "官湖总站-葵涌总站",
+        "status": "0"
+    },
+    {
+        "routes": "B969",
+        "busSite": "葵涌总站一坝光新村",
+        "status": "0"
+    },
+    {
+        "routes": "大鹏假日专线1号",
+        "busSite": "南澳新大总站一深圳北站交通枢纽公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线146号",
+        "busSite": "龙岗信息学院-龙岗麓园总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线90号",
+        "busSite": "深圳技师学院-大运地铁接驳站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线180号",
+        "busSite": "龙岗信息学院总站",
+        "status": "一亿思达大厦"
+    },
+    {
+        "routes": "N28",
+        "busSite": "大运地铁接驳站一宝龙比亚迪",
+        "status": "0"
+    },
+    {
+        "routes": "M318",
+        "busSite": "龙岗信息学院总站-平湖火车站总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线164号",
+        "busSite": "坂田风门坳总站一深圳实验坂田校区",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士39号",
+        "busSite": "坂田风门坳总站-华富路2",
+        "status": "0"
+    },
+    {
+        "routes": "NE31",
+        "busSite": "坂田风门坳总站一机场新航站楼",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线151号",
+        "busSite": "深圳科学高中西一高力特",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线37号",
+        "busSite": "坂田象角塘总站一华强路地铁公交接驳站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士81号",
+        "busSite": "坂田象角塘总站一坂田象角塘总站",
+        "status": "0"
+    },
+    {
+        "routes": "B883",
+        "busSite": "深圳坪山综合交通枢纽公交场站一金龟露营小镇",
+        "status": "B678"
+    },
+    {
+        "routes": "B678",
+        "busSite": "宝龙南总站一马峦山园区总站",
+        "status": "0"
+    },
+    {
+        "routes": "B870",
+        "busSite": "宝龙南总站一坪山实验学校",
+        "status": "0"
+    },
+    {
+        "routes": "B670",
+        "busSite": "龙东公交首末站一宝龙清风总站",
+        "status": "0"
+    },
+    {
+        "routes": "M326",
+        "busSite": "马峦创谷总站一沙坜工业区",
+        "status": "0"
+    },
+    {
+        "routes": "B850",
+        "busSite": "马峦小学一诺菲巴斯德厂",
+        "status": "0"
+    },
+    {
+        "routes": "M297",
+        "busSite": "永盛泰工业园一马峦山公园",
+        "status": "0"
+    },
+    {
+        "routes": "B950",
+        "busSite": "坑梓汽车站总站一金辉路总站",
+        "status": "0"
+    },
+    {
+        "routes": "B675",
+        "busSite": "龙田吓陂村公交总站一威尔德电子厂",
+        "status": "0"
+    },
+    {
+        "routes": "M293",
+        "busSite": "深圳坪山综合交通枢细公交场站一龙田I下陂村公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "M443",
+        "busSite": "深圳坪山综合交通枢纽公交场站一坪山外国语学校",
+        "status": "0"
+    },
+    {
+        "routes": "B952",
+        "busSite": "深圳坪山综合交通枢纽公交场站-沙坑二路路口",
+        "status": "0"
+    },
+    {
+        "routes": "M480",
+        "busSite": "深圳坪山综合交通枢纽公交场站-碧岭总站",
+        "status": "0"
+    },
+    {
+        "routes": "B811",
+        "busSite": "瑞景同裕路口一深圳坪山综合交通枢纽公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "B760",
+        "busSite": "坪山火车站总站一黄竹坑",
+        "status": "0"
+    },
+    {
+        "routes": "B953",
+        "busSite": "坪山锦堂公交首末站一开沃汽车坪山基地",
+        "status": "0"
+    },
+    {
+        "routes": "M427",
+        "busSite": "沙坜工业区-坪山火车站总站",
+        "status": "0"
+    },
+    {
+        "routes": "M478",
+        "busSite": "深圳坪山综合交通枢纽公交场站-卓越前蓝海岸总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士5号",
+        "busSite": "坪山竹坑总站一坪山竹坑总站",
+        "status": "0"
+    },
+    {
+        "routes": "B885",
+        "busSite": "坪山锦当公交首末站一光祖中学",
+        "status": "0"
+    },
+    {
+        "routes": "M325",
+        "busSite": "坪山天虹-龙光城总站",
+        "status": "0"
+    },
+    {
+        "routes": "M497",
+        "busSite": "龙光城总站-龙岗长途客运站",
+        "status": "0"
+    },
+    {
+        "routes": "M564",
+        "busSite": "汤坑二路-坪山竹坑总站",
+        "status": "0"
+    },
+    {
+        "routes": "M575",
+        "busSite": "赤坳社区-南布总站",
+        "status": "0"
+    },
+    {
+        "routes": "M576",
+        "busSite": "坪山新和村-竹坑总站",
+        "status": "0"
+    },
+    {
+        "routes": "B951",
+        "busSite": "金辉路总站-龙翔学校",
+        "status": "0"
+    },
+    {
+        "routes": "B762",
+        "busSite": "望牛岗村-马峦山总站",
+        "status": "0"
+    },
+    {
+        "routes": "B741",
+        "busSite": "布吉慢城总站一布吉百鸽笼总站",
+        "status": "0"
+    },
+    {
+        "routes": "B665",
+        "busSite": "布吉慢城总站一布吉慢城总站",
+        "status": "0"
+    },
+    {
+        "routes": "B881",
+        "busSite": "沙西桥一南龙社区工作站",
+        "status": "0"
+    },
+    {
+        "routes": "B882",
+        "busSite": "沙西桥一沙西桥",
+        "status": "0"
+    },
+    {
+        "routes": "M361",
+        "busSite": "龙华公交总站一坑梓基地总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线61号",
+        "busSite": "坑梓基地总站一坑梓基地总站",
+        "status": "0"
+    },
+    {
+        "routes": "B933",
+        "busSite": "鹳鼎控股一江边公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线140号",
+        "busSite": "山门居委会一鹳鼎控股",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线141号",
+        "busSite": "楼岗社区一新飞燕分厂",
+        "status": "0"
+    },
+    {
+        "routes": "B875",
+        "busSite": "兴围村委一福永卫生监督所",
+        "status": "0"
+    },
+    {
+        "routes": "B876",
+        "busSite": "塘尾社区一福永卫生监督所",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线147号",
+        "busSite": "塘尾派出所一大族基地",
+        "status": "0"
+    },
+    {
+        "routes": "B984",
+        "busSite": "松岗塘下涌综合场站一燕川北部工业园",
+        "status": "0"
+    },
+    {
+        "routes": "B838",
+        "busSite": "稔田社区总站一万福广场东",
+        "status": "0"
+    },
+    {
+        "routes": "B893",
+        "busSite": "稔田总站一宝安人才园",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线148号",
+        "busSite": "新和天桥乞一大族基地",
+        "status": "0"
+    },
+    {
+        "routes": "B943",
+        "busSite": "新桥上南公交场站一新桥市民广场南",
+        "status": "0"
+    },
+    {
+        "routes": "B981",
+        "busSite": "新玉路公交综合场站一松岗天虹商场",
+        "status": "0"
+    },
+    {
+        "routes": "B767",
+        "busSite": "深圳东方英文书院一白石厦公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B789",
+        "busSite": "共和综合场站一大王山公园总站",
+        "status": "0"
+    },
+    {
+        "routes": "B895",
+        "busSite": "全至科技园总站一大王山公园总站",
+        "status": "0"
+    },
+    {
+        "routes": "M184",
+        "busSite": "深圳福凤路公交总站一东莞长安西站",
+        "status": "0"
+    },
+    {
+        "routes": "B941",
+        "busSite": "洪桥头总站一洪桥头总站",
+        "status": "0"
+    },
+    {
+        "routes": "凤凰山假日接驳专线",
+        "busSite": "凤凰古塔一凤凰山脚",
+        "status": "0"
+    },
+    {
+        "routes": "会展机场接驳专线(单环线)",
+        "busSite": "",
+        "status": ""
+    },
+    {
+        "routes": "双城双年展宝安分展应急接驳线",
+        "busSite": "宝安国际艺展中心一宝安国际艺展中心",
+        "status": "0"
+    },
+    {
+        "routes": "767",
+        "busSite": "龙腾路场站一龙腾路场站",
+        "status": "0"
+    },
+    {
+        "routes": "791",
+        "busSite": "石岩黄峰岭场站一石岩黄蜂岭场站",
+        "status": "0"
+    },
+    {
+        "routes": "B784",
+        "busSite": "公明李松酮场站一中山七院",
+        "status": "0"
+    },
+    {
+        "routes": "B868",
+        "busSite": "公明马山头总站一公明马山头总站",
+        "status": "0"
+    },
+    {
+        "routes": "B889",
+        "busSite": "峰荟首末站一峰荟首末站",
+        "status": "0"
+    },
+    {
+        "routes": "B890",
+        "busSite": "天汇城首末站一天汇城首末站",
+        "status": "0"
+    },
+    {
+        "routes": "B891",
+        "busSite": "龙腾路场站一龙腾路场站",
+        "status": "0"
+    },
+    {
+        "routes": "B899",
+        "busSite": "天汇城首末站一天汇城首末站",
+        "status": "0"
+    },
+    {
+        "routes": "B901",
+        "busSite": "楼村公交总站一楼村公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B926",
+        "busSite": "长圳总站一长圳总站",
+        "status": "0"
+    },
+    {
+        "routes": "B934",
+        "busSite": "石岩同富裕工业区微巴场站一石岩同富裕工业区微巴场站",
+        "status": "0"
+    },
+    {
+        "routes": "B935",
+        "busSite": "石岩同富裕工业区微巴场站一石岩同富裕工业区微巴场站",
+        "status": "0"
+    },
+    {
+        "routes": "B947",
+        "busSite": "塘家总站一光明实验学校",
+        "status": "0"
+    },
+    {
+        "routes": "B966",
+        "busSite": "果林村场站一果林村场站",
+        "status": "0"
+    },
+    {
+        "routes": "B971",
+        "busSite": "长圳总站一长圳总站",
+        "status": "0"
+    },
+    {
+        "routes": "B986",
+        "busSite": "石岩同富裕工业区微巴场站一石岩同富裕工业区微巴场站",
+        "status": "0"
+    },
+    {
+        "routes": "M549",
+        "busSite": "公明岛山头总站一公明岛山头总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线107号",
+        "busSite": "石岩街道办一兴东地铁站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线113号",
+        "busSite": "红湖总站一红湖总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线132号",
+        "busSite": "公明马山头总站一田寮总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线145号",
+        "busSite": "龙腾路场站一石龙仔场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线163号",
+        "busSite": "白花广场东一光明外国语学校",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线167号",
+        "busSite": "田京总站一田家总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线176号",
+        "busSite": "下石家总站一下石家总站",
+        "status": "0"
+    },
+    {
+        "routes": "下石家总站一昌山头学校0"
+    },
+    {
+        "routes": "高峰专线184号",
+        "busSite": "光明外国语学校一长圳保障房(在建",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士33号",
+        "busSite": "楼村公交总站一楼村公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "光明假日驳专线1号",
+        "busSite": "天汇城首末站一天汇城首末站",
+        "status": "0"
+    },
+    {
+        "routes": "光明假日接驳专线2号",
+        "busSite": "天汇城首末站一天汇城首末站",
+        "status": "0"
+    },
+    {
+        "routes": "光明假日接驳专线3号",
+        "busSite": "塘家总站一塘家总站",
+        "status": "0"
+    },
+    {
+        "routes": "B917",
+        "busSite": "梅龙路公交总站一梅龙路公交总站(双环线)",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士16号",
+        "busSite": "龙悦居公交总站一福田交通枢纽公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线7号",
+        "busSite": "华瀚科技总站一蛇口广场",
+        "status": "0"
+    },
+    {
+        "routes": "B861",
+        "busSite": "锦观园公交总站一锦囊观园公交总站(单环线)",
+        "status": "0"
+    },
+    {
+        "routes": "B651",
+        "busSite": "观澜河东村一观澜河东村(单环线)",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线162号",
+        "busSite": "观澜河东村一茜坑公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线173号",
+        "busSite": "锦观园公交总站一观澜二中",
+        "status": "0"
+    },
+    {
+        "routes": "B766",
+        "busSite": "溢佳工业园总站一溢佳工业园总站(单环线)",
+        "status": "0"
+    },
+    {
+        "routes": "B769",
+        "busSite": "福安雅园总站一横坑尾公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "B918",
+        "busSite": "福安雅园总站一锦科学园",
+        "status": "0"
+    },
+    {
+        "routes": "B915",
+        "busSite": "上塘地铁公交接驳站一东环天虹",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线76号",
+        "busSite": "大浪部九窝总站一深圳北站交通枢纽公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线137号",
+        "busSite": "深圳北动车运用所员工宿舍一深圳北站西广场公交场站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线175号",
+        "busSite": "陶吓社区一陶吓社区(单环线)",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线38号",
+        "busSite": "石凹路公交苜末站一上海宾馆西1",
+        "status": "0"
+    },
+    {
+        "routes": "B606",
+        "busSite": "大浪时尚小镇公交场站1-大浪时尚小镇公交场站1(单环线)",
+        "status": "0"
+    },
+    {
+        "routes": "B714",
+        "busSite": "大浪新百丽总站一罗屋围总站",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士28号",
+        "busSite": "时尚创意城一福田高铁站",
+        "status": "0"
+    },
+    {
+        "routes": "B880",
+        "busSite": "观潮湖公交总站一庙溪工业区",
+        "status": "0"
+    },
+    {
+        "routes": "B919",
+        "busSite": "观澜爱心家园一观澜爱心家园(单环线)",
+        "status": "0"
+    },
+    {
+        "routes": "B921",
+        "busSite": "观澜湖公交总站一横坑尾公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线174号",
+        "busSite": "观澜爱心家园一观澜二中",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士34号",
+        "busSite": "坂田雪象村总站一科技园公交总站",
+        "status": "0"
+    },
+    {
+        "routes": "高峰专线171号",
+        "busSite": "光明白花洞总站一观澜大富工业区",
+        "status": "0"
+    },
+    {
+        "routes": "高快巴士37号",
+        "busSite": "黎光工业区总站一皇庭广场总站",
+        "status": "0"
+    }
+]
